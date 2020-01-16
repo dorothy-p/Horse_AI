@@ -1,0 +1,10 @@
+obj_horseBody
+obj_leg
+obj_finishLine
+
+spr_horseBody
+spr_leg
+spr_finishLine
+
+room0  (For room in which all action occurs)
+roomTitleScreen
